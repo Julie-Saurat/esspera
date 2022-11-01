@@ -25,10 +25,7 @@ To remain sustainable, **farming must adapt quickly** to the changing conditions
 **Leveraging AI and model training**, we believe we can - all together - provide many solutions for a **more resilient local agriculture**, leading through a **global improvement of food security**.
 
 ### The idea
-ESSPERA was imagined to response to the big issue of food security from its roots. 
-The idea is to **provide farmers the best seed recommendation**, thanks to farmers associations and governmental **seed trials results**. 
-
-Helping them to make better decision with confidence to grow more resilient, we **ensure a better local food security**.
+ESSPERA **aims to contribute to improving food security at the source**, agricultural production. It provides farmers the optimal seed recommendation accounting for their forecasted local conditions, thanks to farmers associations' and governmental seed trials results. It **helps make this important decision with confidence, to improve resiliency in agriculture, and to improve food security**.
 ![What is ESSPERA](https://user-images.githubusercontent.com/65171375/198662592-f1c8608e-04fb-462c-986b-edebb51cfe13.png)
 
 
