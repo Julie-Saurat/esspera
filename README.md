@@ -31,7 +31,8 @@ ESSPERA **aims to contribute to improving food security at the source**, agricul
 
 ## Demo video
 Discover Esspera in video here: [https://youtu.be/bfOhn46MnRM](https://youtu.be/bfOhn46MnRM)
-[![Esspera Demo Video](https://user-images.githubusercontent.com/3689704/199121490-902e9a42-de86-482d-ad1a-9d741eebeb34.png)](https://youtu.be/bfOhn46MnRM)
+[![Esspera Demo Video](https://user-images.githubusercontent.com/65171375/203348672-b311ec6a-9112-4620-8aa8-80a3c4555ba0.png)](https://youtu.be/bfOhn46MnRM)
+
 
 ## The architecture
 ### Test/Dev Architecture (Existing):
